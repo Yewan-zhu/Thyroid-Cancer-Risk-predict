@@ -1,5 +1,5 @@
 ![feibi](https://github.com/Yewan-zhu/Thyroid-Cancer-Risk-predict/blob/main/picture.png)
-
+<img src="[./xxx.png](https://github.com/Yewan-zhu/Thyroid-Cancer-Risk-predict/blob/main/picture.png)" width = "300" height = "200" alt="图片名称" align=center />
 # Thyroid-Cancer-Risk-predict
 该任务为二分类预测任务。原始数据在[data](https://github.com/Yewan-zhu/Thyroid-Cancer-Risk-predict/tree/main/data)，该数据来自[kaggle](https://www.kaggle.com/datasets/ankushpanday1/thyroid-cancer-risk-prediction-dataset)
 
