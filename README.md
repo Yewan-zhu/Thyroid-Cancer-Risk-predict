@@ -1,4 +1,4 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/Yewan-zhu/Thyroid-Cancer-Risk-predict/blob/main/%E9%93%B8%E5%B8%81%E8%8F%B2%E6%AF%94.png))
+![feibi](https://github.com/Yewan-zhu/Thyroid-Cancer-Risk-predict/blob/main/picture.png)
 
 # Thyroid-Cancer-Risk-predict
 该任务为二分类预测任务。原始数据在[data](https://github.com/Yewan-zhu/Thyroid-Cancer-Risk-predict/tree/main/data)，该数据来自[kaggle](https://www.kaggle.com/datasets/ankushpanday1/thyroid-cancer-risk-prediction-dataset)
