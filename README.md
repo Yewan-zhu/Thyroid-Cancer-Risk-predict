@@ -7,7 +7,7 @@
 请修改自己的文件路径。
 
 ## 数据预处理
-[Data preprocess.ipynb](https://github.com/Yewan-zhu/Thyroid-Cancer-Risk-predict/edit/main/Data preprocess.ipynb)数据预处理过程，预处理结果保存在[data](https://github.com/Yewan-zhu/Thyroid-Cancer-Risk-predict/tree/main/data)。
+[Data preprocess.ipynb](https://github.com/Yewan-zhu/Thyroid-Cancer-Risk-predict/edit/main)数据预处理过程，预处理结果保存在[data](https://github.com/Yewan-zhu/Thyroid-Cancer-Risk-predict/tree/main/data)。
 
 若需要降维，请使用[method](https://github.com/Yewan-zhu/Thyroid-Cancer-Risk-predict/tree/main/method)里的AE.ipynb。最后会降成2、4、6维三种，均保存在[data](https://github.com/Yewan-zhu/Thyroid-Cancer-Risk-predict/tree/main/data)，建议选择6维。
 
